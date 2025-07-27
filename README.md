@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+# 🗺️ Voice-Based Geospatial Maps
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A **React-based voice-enabled geospatial mapping application** that allows users to interact with maps through voice commands. The app enhances accessibility and usability by letting users perform map operations such as zooming, displaying temperature layers, and handling various location-based queries—completely hands-free.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🌐 Tech Stack
 
-### `npm start`
+- **React JS** – Frontend framework for building the interactive UI  
+- **Speech Recognition APIs** – For handling voice input and commands  
+- **Leaflet.js** – For rendering interactive maps  
+- **OpenWeather API / Geospatial APIs** – To display temperature and other real-time data  
+- **CSS** – For UI styling 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🚀 Key Features
 
-### `npm test`
+- 🎙️ **Voice command support** for:
+  - Zooming in/out
+  - Displaying temperature overlays
+  - Showing/highlighting locations
+  - Switching map themes or layers  
+- 🗺️ Real-time map rendering with **Leaflet.js**  
+- 🌡️ Integration of weather and temperature data  
+- 🌓 Dark mode and theme toggling  
+- 📍 Interactive markers and map layers based on queries
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 🎥 Demo Video
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+📽 [Watch Demo](https://drive.google.com/file/d/1MQncbCDC3Pfu-ocrlO5YkogUf-YBRsQ0/view)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
